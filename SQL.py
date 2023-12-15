@@ -13,3 +13,5 @@ rabatt_gueltig = "SELECT *  FROM [emea_enventa_live].[dbo].[BRABATTGUELTIGKEIT]"
 
 rabatt_staffel = "SELECT *  FROM [emea_enventa_live].[dbo].[EINKRABATTSTAFFEL]"
 
+stueckliste = """SELECT * FROM [emea_enventa_live].[dbo].[STUECKLISTE]"""
+

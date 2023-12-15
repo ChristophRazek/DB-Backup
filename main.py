@@ -17,7 +17,7 @@ conx = pyodbc.connect(connx_string)
 datum = str(datetime.now())[0:10]
 
 sqls = [[s.artikel, 'Artikelstamm'], [s.artikeleinheit, 'Artikeleinheit'], [s.artikeltext, 'Artikelbeschreibung'], [s.produktentwicklung, 'Produktentwicklung'],
-        [s.rabatt_kopf, 'Rabatt_Kopf'], [s.rabatt_gueltig, 'Rabatt_Gueltig'], [s.rabatt_staffel, 'Rabatt_Staffel']]
+        [s.rabatt_kopf, 'Rabatt_Kopf'], [s.rabatt_gueltig, 'Rabatt_Gueltig'], [s.rabatt_staffel, 'Rabatt_Staffel'], [s.stueckliste, 'Stueckliste']]
 
 
 for sql in sqls:
