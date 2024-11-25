@@ -1,5 +1,5 @@
 
-artikel = """SELECT * FROM [emea_enventa_live].[dbo].[ARTIKEL]"""
+artikel = """SELECT * FROM [emea_enventa_live45].[dbo].[ARTIKEL]"""
 
 artikeleinheit = "SELECT *  FROM [emea_enventa_live45].[dbo].[ARTIKELEINHEIT]"
 
