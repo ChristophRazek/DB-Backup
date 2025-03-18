@@ -15,3 +15,4 @@ rabatt_staffel = "SELECT *  FROM [emea_enventa_live45].[dbo].[EINKRABATTSTAFFEL]
 
 stueckliste = """SELECT * FROM [emea_enventa_live45].[dbo].[STUECKLISTE]"""
 
+Q_stueckliste = """SELECT * FROM [emea_enventa_live45].[dbo].[PE14_QualityPartsList]"""
